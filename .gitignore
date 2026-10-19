@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Variables de entorno locales ###
+.env
+
+### Claude Code (configuración local) ###
+.claude/settings.local.json
